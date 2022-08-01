@@ -37,7 +37,7 @@ A collection of usefull stuf to remeber.
 - [prisma](https://github.com/RobertCraigie/prisma-client-py)
 
 # BIG Data
-https://github.com/0xnr/awesome-bigdata
+- https://github.com/0xnr/awesome-bigdata
 
 ## Parameters Optimization
 - Hydra
@@ -49,9 +49,9 @@ https://github.com/0xnr/awesome-bigdata
 - Rancher
 
 # Testing
-[Robot Framework](https://robotframework.org/?tab=0#getting-started) Perfect for integration tests
-[Behave](https://behave.readthedocs.io/en/stable/tutorial.html) Perfect for unit tests using BDD
-[Hypothesis](https://hypothesis.readthedocs.io/en/latest/quickstart.html) Perfect for input data generation coverage
+- [Robot Framework](https://robotframework.org/?tab=0#getting-started) Perfect for integration tests
+- [Behave](https://behave.readthedocs.io/en/stable/tutorial.html) Perfect for unit tests using BDD
+- [Hypothesis](https://hypothesis.readthedocs.io/en/latest/quickstart.html) Perfect for input data generation coverage
 
 
 
