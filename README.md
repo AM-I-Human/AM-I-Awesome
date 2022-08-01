@@ -2,6 +2,7 @@
 A collection of usefull stuf to remeber.
 
 # Python
+
 ##  AI and Data Science
 - Pandas
 - jupyter-lab
@@ -9,13 +10,15 @@ A collection of usefull stuf to remeber.
 - nltk
 - spapy
 - nlp-https://github.com/keon/awesome-nlp#user-content-python
+
 ## Deep Learning
-- [Pytorch lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 - tensorflow
 - tensorflow-io
 - keras
 - pytorch
+- - [Pytorch lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 - huggingface
+
 ### Model Size Reduction
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 
@@ -35,6 +38,10 @@ A collection of usefull stuf to remeber.
 - flask
 - numba
 - [prisma](https://github.com/RobertCraigie/prisma-client-py)
+
+## Pipes and more
+- [ploomber](https://ploomber.io/)
+- - [soopervisor](https://github.com/ploomber/soopervisor)
 
 # BIG Data
 - https://github.com/0xnr/awesome-bigdata
