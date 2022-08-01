@@ -16,7 +16,7 @@ A collection of usefull stuf to remeber.
 - tensorflow-io
 - keras
 - pytorch
-- - [Pytorch lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
+  - [Pytorch lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 - huggingface
 
 ### Model Size Reduction
@@ -41,7 +41,7 @@ A collection of usefull stuf to remeber.
 
 ## Pipes and more
 - [ploomber](https://ploomber.io/)
-- - [soopervisor](https://github.com/ploomber/soopervisor)
+  - [soopervisor](https://github.com/ploomber/soopervisor)
 
 # BIG Data
 - https://github.com/0xnr/awesome-bigdata
