@@ -32,6 +32,7 @@ A collection of usefull stuf to remeber.
 - click
 - tqdm
 - rich
+- [Textual](https://github.com/Textualize/textual): a library for gui on terminal
 - Pillow
 - python-opencv
 - DJANGO 
