@@ -8,6 +8,8 @@ A collection of usefull stuf to remeber.
 - spapy
 - [nlp](https://github.com/keon/awesome-nlp#user-content-python)
 - [evidently](https://github.com/evidentlyai/evidently) - monitor production models
+- [Metrics](https://github.com/benhamner/Metrics) - Collection of common metrics
+- A complete list=https://pythonawesome.com/a-ranked-list-of-awesome-machine-learning-python-libraries/
 
 ### Deep Learning
 - tensorflow
@@ -39,7 +41,7 @@ A collection of usefull stuf to remeber.
   - [ipysheet](https://github.com/QuantStack/ipysheet/) - work with sheet on jupyter 
 - Pandas
 - [csvkit](https://csvkit.readthedocs.io)
-- 
+
 
 ## Scraping
 - Scrapy
@@ -54,7 +56,10 @@ A collection of usefull stuf to remeber.
 ## Data Visualization
 - [altair](https://github.com/altair-viz/altair)
 - [bokeh](https://bokeh.org/)
+- [AutoViz](https://github.com/AutoViML/AutoViz)
 - [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - for make animations
+- [pandas-profiling]()
+- [Pandas-Bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh)
 
 
 ## Python Development
