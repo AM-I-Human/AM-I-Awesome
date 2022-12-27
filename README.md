@@ -26,7 +26,12 @@ A collection of usefull stuf to remeber.
 - Scrapy
   
 ### Distributed Computing
-- [dask](https://www.dask.org/)
+- [dask](https://www.dask.org/) - A flexible parallel computing library for analytic computing.
+- luigi - A module that helps you build complex pipelines of batch jobs.
+- mrjob - Run MapReduce jobs on Hadoop or Amazon Web Services.
+- PySpark - Apache Spark Python API.
+- Ray - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+
 ## Data Visualization
 - [altair](https://github.com/altair-viz/altair)
 - [bokeh](https://bokeh.org/)
