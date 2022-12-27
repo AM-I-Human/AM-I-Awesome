@@ -3,15 +3,12 @@ A collection of usefull stuf to remeber.
 
 # Python
 
-##  AI and Data Science
-- Pandas
-- jupyter-lab
-- scrapy
+## AI
 - nltk
 - spapy
-- nlp-https://github.com/keon/awesome-nlp#user-content-python
+[nlp](https://github.com/keon/awesome-nlp#user-content-python)
 
-## Deep Learning
+### Deep Learning
 - tensorflow
 - tensorflow-io
 - keras
@@ -19,20 +16,27 @@ A collection of usefull stuf to remeber.
   - [Pytorch lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
 - huggingface
 
-### Model Size Reduction
+#### Model Size Reduction
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+### Data Manipulation
+- Jupyter-lab
+- Pandas
+
+## Scraping
+- Scrapy
+  
+### Distributed Computing
+- [dask](https://www.dask.org/)
+## Data Visualization
+- [altair](https://github.com/altair-viz/altair)
+- [bokeh](https://bokeh.org/)
+
 
 ## Python Development
 - requests
 - faster-than-requests
 - fastapi
 - pydantic
-- typer
-- fire
-- click
-- tqdm
-- rich
-- [Textual](https://github.com/Textualize/textual): a library for gui on terminal
 - Pillow
 - python-opencv
 - DJANGO 
@@ -40,6 +44,16 @@ A collection of usefull stuf to remeber.
 - numba
 - [prisma](https://github.com/RobertCraigie/prisma-client-py)
 
+### CLI
+#### UI
+- [Textual](https://github.com/Textualize/textual): a library for gui on terminal
+- typer
+- fire
+- click
+
+#### CLI Bars
+- tqdm
+- rich
 ## Pipes and more
 - [ploomber](https://ploomber.io/)
   - [soopervisor](https://github.com/ploomber/soopervisor)
@@ -53,6 +67,7 @@ A collection of usefull stuf to remeber.
 
 # Kubernetes
 - KubeFLow
+  - Kubeflow - Pipelines
 - KubeDB
 - Rancher
 
@@ -60,6 +75,4 @@ A collection of usefull stuf to remeber.
 - [Robot Framework](https://robotframework.org/?tab=0#getting-started) Perfect for integration tests
 - [Behave](https://behave.readthedocs.io/en/stable/tutorial.html) Perfect for unit tests using BDD
 - [Hypothesis](https://hypothesis.readthedocs.io/en/latest/quickstart.html) Perfect for input data generation coverage
-
-
 
