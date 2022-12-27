@@ -6,7 +6,8 @@ A collection of usefull stuf to remeber.
 ## AI
 - nltk
 - spapy
-[nlp](https://github.com/keon/awesome-nlp#user-content-python)
+- [nlp](https://github.com/keon/awesome-nlp#user-content-python)
+- [evidently](https://github.com/evidentlyai/evidently) - monitor production models
 
 ### Deep Learning
 - tensorflow
@@ -18,9 +19,27 @@ A collection of usefull stuf to remeber.
 
 #### Model Size Reduction
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+
+### Recommender System
+- annoy - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
+- fastFM - A library for Factorization Machines.
+- implicit - A fast Python implementation of collaborative filtering for implicit datasets.
+- libffm - A library for Field-aware Factorization Machine (FFM).
+- lightfm - A Python implementation of a number of popular recommendation algorithms.
+- spotlight - Deep recommender models using PyTorch.
+- Surprise - A scikit for building and analyzing recommender systems.
+- tensorrec - A Recommendation Engine Framework in TensorFlow.
+
 ### Data Manipulation
-- Jupyter-lab
+- Jupyter
+  - Jupyter-lab
+  - [databooks](https://github.com/datarootsio/databooks) - manipulate and handle jupyter notebooks
+  - [jupyterlab-tensorboard-pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
+  - [jupyterlab-sql](https://github.com/pbugnion/jupyterlab-sql) - a GUI to navigate a db on notebooks
+  - [ipysheet](https://github.com/QuantStack/ipysheet/) - work with sheet on jupyter 
 - Pandas
+- [csvkit](https://csvkit.readthedocs.io)
+- 
 
 ## Scraping
 - Scrapy
@@ -35,6 +54,7 @@ A collection of usefull stuf to remeber.
 ## Data Visualization
 - [altair](https://github.com/altair-viz/altair)
 - [bokeh](https://bokeh.org/)
+- [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - for make animations
 
 
 ## Python Development
@@ -48,6 +68,9 @@ A collection of usefull stuf to remeber.
 - flask
 - numba
 - [prisma](https://github.com/RobertCraigie/prisma-client-py)
+
+### Logging
+[loguru](https://github.com/Delgan/loguru)
 
 ### CLI
 #### UI
