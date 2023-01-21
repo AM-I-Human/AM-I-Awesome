@@ -74,6 +74,9 @@ A collection of usefull stuf to remeber.
 - numba
 - [prisma](https://github.com/RobertCraigie/prisma-client-py)
 
+### APPs
+[Kivy](https://kivy.org/)
+
 ### Logging
 [loguru](https://github.com/Delgan/loguru)
 
