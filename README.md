@@ -5,7 +5,8 @@ A collection of usefull stuf to remeber.
 
 ## AI
 - nltk
-- spapy
+- [cleantext](https://github.com/prasanthg3/cleantext)
+- spacy
 - [nlp](https://github.com/keon/awesome-nlp#user-content-python)
 - [evidently](https://github.com/evidentlyai/evidently) - monitor production models
 - [Metrics](https://github.com/benhamner/Metrics) - Collection of common metrics
@@ -41,17 +42,25 @@ A collection of usefull stuf to remeber.
   - [ipysheet](https://github.com/QuantStack/ipysheet/) - work with sheet on jupyter 
 - Pandas
 - [csvkit](https://csvkit.readthedocs.io)
+- [modin](https://github.com/modin-project/modin) a parallel pandas alternative
+- [polars](https://github.com/pola-rs/polars)a blazing fast alternative to pandas with better memory management
+- [data table](https://datatable.readthedocs.io/en/latest/start/quick-start.html) a pandas alternative for very big dataset:)
+
+### Data Visualization
+- [AutoViz](https://github.com/AutoViML/AutoViz)
 
 
 ## Scraping
 - Scrapy
+- Selenium
   
-### Distributed Computing
+## Distributed Computing
 - [dask](https://www.dask.org/) - A flexible parallel computing library for analytic computing.
 - luigi - A module that helps you build complex pipelines of batch jobs.
 - mrjob - Run MapReduce jobs on Hadoop or Amazon Web Services.
 - PySpark - Apache Spark Python API.
 - Ray - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+
 
 ## Data Visualization
 - [altair](https://github.com/altair-viz/altair)
@@ -75,10 +84,10 @@ A collection of usefull stuf to remeber.
 - [prisma](https://github.com/RobertCraigie/prisma-client-py)
 
 ### APPs
-[Kivy](https://kivy.org/)
+- [Kivy](https://kivy.org/)
 
 ### Logging
-[loguru](https://github.com/Delgan/loguru)
+- [loguru](https://github.com/Delgan/loguru)
 
 ### CLI
 #### UI
